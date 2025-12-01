@@ -5,7 +5,7 @@ Example usage:
 ```
 library(MASS)
 source(
-  "https://raw.githubusercontent.com/albeidaho/TEAMIV/refs/heads/main/TEAMIV_functions.R"
+  "https://raw.githubusercontent.com/albeidaho/TEAMIV/9c7cba9/TEAMIV_functions.R"
 )
 n = 2000 # sample size
 L = 10 # number of candidate IVs
